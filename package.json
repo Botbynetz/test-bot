@@ -1,6 +1,6 @@
 {
   "name": "LucBot",
-  "version": "7",
+  "version": "9.9.9",
   "description": "WhatsApp bot",
   "main": "main.js",
   "directories": {
